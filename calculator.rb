@@ -2,4 +2,4 @@
 first_number=5
 second_number=9
 sum=14
-difference=
+difference=-9
