@@ -2,4 +2,5 @@
 first_number=5
 second_number=9
 sum=14
-difference=-9
+difference=-4
+product=45
