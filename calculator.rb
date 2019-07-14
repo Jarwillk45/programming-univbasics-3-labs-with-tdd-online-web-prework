@@ -4,4 +4,4 @@ second_number=9
 sum=14
 difference=-4
 product=45
-quotient=0.55555
+quotient=0
